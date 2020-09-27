@@ -6,4 +6,4 @@ Code and results for publication [Gene expression meta-analysis of Parkinson’s
 
 #### Workflow
 
-<img src="figures/methodology_figure.png" alt="" width="300"/>
+<img src="figures/methodology_figure.png" alt="" width="500"/>
