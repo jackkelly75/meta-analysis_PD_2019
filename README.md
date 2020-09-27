@@ -5,3 +5,5 @@ Code and results for publication [Gene expression meta-analysis of Parkinson’s
 #### Research Quistions
 
 #### Workflow
+
+<img src="figures/methodology_figure.png" alt="" width="300"/>
