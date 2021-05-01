@@ -83,6 +83,7 @@ dev.off()
 ############
 data.rma.norm = rma(raw.data)
 data.rma.exprs = exprs(data.rma.norm)
+write.table(data.rma.exprs, file = "GSE20163_rma_data.txt", quote = F)
 
 ############
 #plot normalised data
